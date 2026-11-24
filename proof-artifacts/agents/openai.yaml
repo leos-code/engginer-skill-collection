@@ -1,0 +1,3 @@
+interface:
+  display_name: "Proof Artifacts"
+  short_description: "把接口验收和模糊测试归档为可逐条审阅的完整 HTTP 请求与响应"
